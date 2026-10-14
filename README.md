@@ -1,5 +1,7 @@
 # CastFox Research: Podcast Statistics 2026
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23373786.svg)](https://doi.org/10.5281/zenodo.23373786) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+
 Original data on how podcasts are made, from the [CastFox](https://www.castfox.net/?utm_source=github&utm_medium=referral&utm_campaign=research) index of 5M+ podcasts. Each report publishes its methodology, and its tables are in this repo as CSVs.
 
 **License:** [CC BY 4.0](LICENSE). Free to use, including commercially. Credit **"CastFox Research"** and link to the report you used.
@@ -75,7 +77,11 @@ All the headline numbers above in one table, each linked to the report it comes 
 
 > CastFox Research (2026). *Average Podcast Episode Length in 2026*. CastFox. https://www.castfox.net/research/average-podcast-episode-length-2026
 
-Use the same pattern for any report. To cite the dataset as a whole, use **"Cite this repository"** in the sidebar (from [`CITATION.cff`](CITATION.cff)).
+Use the same pattern for any report. To cite the dataset as a whole:
+
+> CastFox Research & Alfaqeeh, M. (2026). *CastFox Research: Podcast Statistics 2026* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23373786
+
+Or use **"Cite this repository"** in the sidebar.
 
 ## Need a custom cut?
 

@@ -1,0 +1,9 @@
+{
+  "title": "CastFox Research: Podcast Statistics 2026",
+  "upload_type": "dataset",
+  "license": "cc-by-4.0",
+  "creators": [{"name": "CastFox Research"}, {"name": "Alfaqeeh, Mosab"}],
+  "description": "Original aggregate statistics on podcast publishing in 2026 from the CastFox index of 5M+ podcasts: episode length, publishing frequency and podfade, guest rates, AI as a topic, and top sponsors. Full reports and methodology: https://www.castfox.net/research",
+  "keywords": ["podcasts", "podcast statistics", "podcast advertising", "podcast guests", "episode length", "dataset"],
+  "related_identifiers": [{"identifier": "https://www.castfox.net/research", "relation": "isSupplementTo", "resource_type": "publication-report"}]
+}
