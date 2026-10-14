@@ -1,0 +1,82 @@
+English-language podcasts
+rank,brand,category,publishers,shows,sponsor_reads
+1,Quince,Retail & home,327,459,3734
+2,Shopify,Business software,287,394,2851
+3,BetterHelp,Health & wellness,264,338,2813
+4,Factor,Food & drink,196,265,1338
+5,Cash App,Finance,135,176,679
+6,PrizePicks,Betting & prediction markets,134,190,2047
+7,Cozy Earth,Retail & home,134,163,924
+8,NordVPN,Privacy & security,132,156,1611
+9,Hims,Health & wellness,119,162,966
+10,Mint Mobile,Telecom,109,155,986
+11,Zocdoc,Health & wellness,105,119,567
+12,Saily,Telecom,102,116,691
+13,OneSkin,Health & wellness,99,118,430
+14,Mars Men,Health & wellness,96,116,332
+15,Rocket Money,Finance,94,148,598
+16,Square,Business software,93,165,576
+17,StreamYard,Business software,92,97,447
+18,AG1,Health & wellness,86,97,511
+19,Ridge,Retail & home,78,96,272
+20,Quo,Business software,77,102,396
+21,Kalshi,Betting & prediction markets,76,148,974
+22,Warby Parker,Retail & home,75,105,341
+23,HelloFresh,Food & drink,75,89,253
+24,SeatGeek,Entertainment & tickets,73,117,1229
+25,DraftKings,Betting & prediction markets,71,108,740
+26,Rula,Health & wellness,71,96,472
+27,Incogni,Privacy & security,71,79,400
+28,Lola Blankets,Retail & home,70,93,351
+29,Squarespace,Business software,69,78,523
+30,Ultra Pouches,Health & wellness,67,86,209
+31,BlueChew,Health & wellness,66,104,872
+32,Wayfair,Retail & home,64,121,599
+33,DeleteMe,Privacy & security,64,82,545
+34,Boll & Branch,Retail & home,64,81,406
+35,LMNT,Food & drink,60,66,667
+36,Helix Sleep,Retail & home,58,75,501
+37,Nutrafol,Health & wellness,57,90,498
+38,Skool,Business software,57,57,185
+39,Honeylove,Retail & home,56,66,220
+40,Monarch,Finance,55,67,328
+41,Surfshark,Privacy & security,52,61,279
+42,Ethos,Finance,51,59,216
+43,Aura Frames,Retail & home,49,76,288
+44,NoCD,Health & wellness,49,68,274
+45,ZBiotics,Health & wellness,48,66,249
+46,ButcherBox,Food & drink,47,61,305
+47,Brooklyn Bedding,Retail & home,47,53,139
+48,Lucy,Health & wellness,46,57,235
+49,Skims,Retail & home,46,54,280
+50,PayPal,Finance,45,49,172
+
+Chinese-language podcasts
+rank,brand,category,publishers,shows,sponsor_reads
+1,FundRich (基富通),Other,85,85,86
+2,CTBC Bank (中信銀行),Other,77,77,173
+3,補體素 (nutrition supplements),Other,75,78,168
+4,Häagen-Dazs (哈根達斯),Other,74,76,121
+5,AMD,Technology,71,72,124
+6,KKBOX,Entertainment & tickets,68,68,89
+7,"HB House real estate, Tainan (台南住商不動產)",Other,60,64,236
+8,妙界,Other,42,42,79
+9,Saily,Telecom,32,32,86
+10,可樂旅遊,Other,31,31,75
+
+genre (English-language),sponsored_shows,top_brands_by_publishers
+Sports,2615,PrizePicks (68); NordVPN (67); SeatGeek (42); StreamYard (39); Saily (38)
+Business,1906,Shopify (24); Monarch (11); Jobber (10); DeleteMe (10); Granola (9)
+Society & Culture,1343,Quince (72); BetterHelp (48); Shopify (47); Cozy Earth (32); Factor (27)
+News,1255,Shopify (35); Quince (30); Skool (29); Incogni (25); Ground News (23)
+Health & Fitness,1174,BetterHelp (32); Cozy Earth (24); LMNT (23); Quince (20); OneSkin (18)
+Education,858,Shopify (20); BetterHelp (17); Cozy Earth (12); Quince (11); Skool (11)
+Leisure,821,Factor (15); Shopify (10); BetterHelp (10); StreamYard (9); Warby Parker (8)
+Comedy,796,Shopify (75); Quince (74); Factor (72); BetterHelp (59); Hims (59)
+Religion & Spirituality,751,BetterHelp (16); Good Ranchers (12); Shopify (10); Brooklyn Bedding (8); Quo (8)
+Arts,586,Quince (12); BetterHelp (8); Shopify (7); Squarespace (6); Cozy Earth (5)
+Technology,511,ThreatLocker (11); Shopify (11); Granola (10); Notion (9); Skool (8)
+TV & Film,441,Quince (31); BetterHelp (20); Shopify (17); Factor (13); NordVPN (10)
+Kids & Family,351,Quince (15); BetterHelp (8); Cozy Earth (8); Wayfair (8); CTC Math (7)
+Music,324,DistroKid (21); Sweetwater (7); Old Glory (5); Rockabilia (4); Cash App (4)
+Science,285,NordVPN (6); Quince (4); Incogni (4); Hims (4); Zocdoc (4)

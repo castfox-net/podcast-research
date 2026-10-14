@@ -1,0 +1,47 @@
+"English-language podcasts, share of episodes with at least one guest, 2026"
+genre,episodes_in_sample,share_with_guest_pct
+All English-language,30049,40.5
+Science,465,62.6
+Business,3118,59.8
+Arts,1148,57.5
+Technology,649,51.3
+Society & Culture,2041,45.3
+Health & Fitness,1793,43.7
+Music,986,41.8
+Sports,3720,40.8
+News,3816,40.3
+Leisure,879,39.4
+TV & Film,1149,38.2
+Education,2051,37.6
+Kids & Family,680,33.4
+Comedy,1062,33.1
+Religion & Spirituality,4970,25.8
+Fiction,505,10.3
+
+"Most-booked podcast guests 2026 (English-language shows outside News/Government, name in episode title)"
+rank,guest,shows,appearances,most_common_genre
+1,Eric Ries,70,72,Business
+2,Nir Eyal,58,59,Business
+3,Cynthia Thurlow,48,49,Health & Fitness
+4,David Epstein,42,42,Business
+5,Jared Freid,35,38,Comedy
+6,Arthur Brooks,35,37,Business
+7,Tommy Wood,33,35,Health & Fitness
+8,Emma Grede,33,34,Society & Culture
+9,Caroline Alan,32,33,Health & Fitness
+10,Inna Segal,32,32,Religion & Spirituality
+11,Brad Williams,31,31,Comedy
+12,Ari Shaffir,29,36,Comedy
+13,Rick Rule,28,32,Business
+14,Eric Zimmer,28,28,Health & Fitness
+15,Amie Hornaman,28,28,Health & Fitness
+16,Jon Acuff,27,27,Religion & Spirituality
+17,Ian Fidance,26,28,Comedy
+18,Mark Normand,26,27,Comedy
+19,David Thomas,25,25,Kids & Family
+20,Malcolm Guite,24,26,Religion & Spirituality
+21,Ben Carlson,24,25,Business
+22,Michael Pollan,24,25,Society & Culture
+23,Matt Chandler,23,26,Religion & Spirituality
+24,Natalie Crawford,23,24,Health & Fitness
+25,Judy Morgan,23,24,Health & Fitness

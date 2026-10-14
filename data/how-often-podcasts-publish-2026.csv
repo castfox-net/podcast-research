@@ -1,0 +1,55 @@
+"Activity, random sample of the CastFox podcast index (n=100000 shows)"
+metric,value_pct
+active_2026_pct,11.1
+active_90d_pct,6.8
+active_2025_pct,17.6
+one_episode_pct,22.8
+six_or_fewer_pct,52.8
+hundred_plus_pct,6.9
+
+"Episodes per show, all podcasts"
+bucket,share_pct
+1 episode,22.8
+2–3,12.8
+4–10,29.1
+11–50,23.5
+51–100,5.6
+More than 100,6.2
+
+"Publishing cadence, shows active in 2026 (median days between episodes)"
+bucket,share_pct
+Daily or more,10.4
+Several times a week,8.0
+Weekly,41.5
+Every two weeks,20.5
+Monthly,15.0
+Less than monthly,4.5
+
+By genre
+genre,shows,median_days_between_episodes,weekly_or_more_pct,daily_pct
+Sports,510,7.0,72.2,10.4
+Religion & Spirituality,1141,7.0,78.4,11.9
+Comedy,282,7.0,67.4,9.6
+News,567,7.0,75.1,29.1
+Kids & Family,168,7.2,54.8,9.5
+Society & Culture,989,7.4,56.4,6.8
+Arts,448,7.5,54.9,14.5
+Education,747,8.1,53.3,7.0
+TV & Film,244,8.2,53.3,2.9
+Health & Fitness,574,8.5,53.0,6.4
+Leisure,304,8.5,53.3,3.9
+Business,1147,9.5,50.7,5.8
+Music,310,11.1,47.7,4.8
+Technology,197,11.4,47.2,8.6
+Science,154,14.0,43.5,6.5
+
+By language
+language,shows,median_days_between_episodes,weekly_or_more_pct,daily_pct
+English,5334,7.0,61.2,10.0
+Spanish,513,7.0,62.0,13.5
+Portuguese,164,7.0,67.1,7.9
+Italian,163,7.0,62.6,14.1
+French,377,7.0,56.0,17.5
+Japanese,226,7.0,76.1,12.4
+Chinese,221,7.0,63.3,9.5
+German,457,14.0,45.5,7.2

@@ -1,0 +1,41 @@
+statistic,value,source_report (castfox.net/research/...)
+Podcasts in the CastFox index,"about 4,800,000",publishing-frequency
+Published an episode in 2026 (%),11.1,publishing-frequency
+Published in last 90 days (%),6.8,publishing-frequency
+Podcasts with one episode (%),22.8,publishing-frequency
+Podcasts with 6 or fewer episodes (%),52.8,publishing-frequency
+Podcasts with 100+ episodes (%),6.9,publishing-frequency
+"Median episode length, per show (min)",35.1,episode-length
+Mean episode length (min),42.7,episode-length
+Median days between episodes,7.0,publishing-frequency
+Active shows publishing at least weekly (%),60.0,publishing-frequency
+Active shows publishing daily (%),10.4,publishing-frequency
+"Episodes with a guest, English (%)",40.5,guests
+Guests per guest episode,1.28,guests
+Most widespread sponsor,Quince,sponsors
+Top sponsor publishers,327,sponsors
+"Distinct sponsor names, English",26623,sponsors
+"Episodes about AI, English (%)",4.8,ai
+Most-mentioned AI company,OpenAI,ai
+Most-mentioned AI product,ChatGPT,ai
+
+genre,median_episode_length_min,median_days_between_episodes,episodes_with_guest_pct,episodes_about_ai_pct
+TV & Film,58.5,8.2,38.2,0.3
+Music,58.0,11.1,41.8,1.3
+Leisure,53.4,8.5,39.4,1.0
+Comedy,50.8,7.0,33.1,2.0
+Sports,47.4,7.0,40.8,0.1
+Arts,43.2,7.5,57.5,2.4
+True Crime,40.9,,,
+History,39.6,,,
+Society & Culture,35.6,7.4,45.3,3.2
+Religion & Spirituality,34.0,7.0,25.8,0.4
+Science,33.4,14.0,62.6,3.7
+Fiction,30.9,,10.3,2.4
+Government,30.8,,,
+Technology,30.1,11.4,51.3,48.0
+Health & Fitness,29.6,8.5,43.7,1.4
+Business,29.0,9.5,59.8,17.1
+News,26.8,7.0,40.3,7.0
+Education,24.6,8.1,37.6,3.1
+Kids & Family,24.2,7.2,33.4,1.0

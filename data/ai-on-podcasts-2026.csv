@@ -1,0 +1,73 @@
+"Share of English-language episodes with an AI topic, 2026"
+genre,episodes_in_sample,share_ai_pct
+All English-language,29915,4.8
+Technology,648,48.0
+Business,3115,17.1
+News,3794,7.0
+Science,455,3.7
+Society & Culture,2036,3.2
+Education,2045,3.1
+Arts,1144,2.4
+Fiction,503,2.4
+Comedy,1058,2.0
+Health & Fitness,1793,1.4
+Music,972,1.3
+Leisure,878,1.0
+Kids & Family,680,1.0
+Religion & Spirituality,4949,0.4
+TV & Film,1149,0.3
+Sports,3703,0.1
+
+"AI companies and tools by number of English-language shows mentioning them, 2026"
+brand,company,shows,episodes
+ChatGPT,OpenAI,1954,2876
+OpenAI,OpenAI,1760,5711
+Anthropic,Anthropic,1670,5118
+Claude,Anthropic,1502,2769
+Nvidia,Nvidia,1104,2466
+Gemini,Google,740,1013
+Hugging Face,Hugging Face,362,499
+Perplexity,Perplexity,319,421
+Cursor,Cursor,287,411
+Google DeepMind,Google,284,419
+Microsoft Copilot,Microsoft,240,347
+Grok,xAI,232,335
+xAI,xAI,230,321
+DeepSeek,DeepSeek,208,274
+NotebookLM,Google,122,163
+Mistral,Mistral,113,135
+ElevenLabs,ElevenLabs,100,125
+Midjourney,Midjourney,59,82
+GitHub Copilot,Microsoft,59,74
+Sora,OpenAI,58,63
+
+AI companies by shows mentioning any of their products
+company,shows,most_common_genre
+OpenAI,3219,Technology
+Anthropic,2605,Technology
+Nvidia,1104,Technology
+Google,997,Technology
+xAI,411,Technology
+Hugging Face,362,Technology
+Perplexity,319,Business
+Cursor,287,Technology
+Microsoft,275,Technology
+DeepSeek,208,Technology
+Mistral,113,Technology
+ElevenLabs,100,Technology
+
+"AI-native companies advertising on English-language podcasts, 2026"
+advertiser,publishers,shows,sponsor_reads
+Anthropic (Claude),38,40,172
+Granola,25,27,197
+Wispr Flow,14,16,93
+ElevenLabs,11,13,63
+Perplexity,8,8,55
+Gamma,7,10,30
+Google Gemini,6,6,37
+Lovable,5,5,23
+Microsoft Copilot,4,4,9
+Cursor,4,4,14
+ChatGPT (OpenAI),3,3,23
+Lindy,2,4,10
+Replit,2,2,10
